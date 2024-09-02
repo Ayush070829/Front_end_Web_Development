@@ -27,6 +27,6 @@ This is a web-based implementation of the classic Simon memory game. The game ch
 To run the game locally, simply clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Ayush070829/Front_end_Web_Development/tree/main/simon%20game>
 cd simon-game
 open index.html
